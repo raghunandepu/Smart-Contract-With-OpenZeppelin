@@ -1,4 +1,4 @@
-# The "TutorialToken" smart contractSmart-Contract-With-OpenZeppelin
+# The "TutorialToken" Smart Contract With OpenZeppelin
 
 You can find complete tutorial of this smart contract [here](http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin).
 
